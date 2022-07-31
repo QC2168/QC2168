@@ -30,3 +30,9 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#22](https://github.com/huajian-pro/resume-design/pull/22) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+2. 🎉 Merged PR [#21](https://github.com/huajian-pro/resume-design/pull/21) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+3. 💪 Opened PR [#21](https://github.com/huajian-pro/resume-design/pull/21) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+4. 💪 Opened PR [#20](https://github.com/huajian-pro/resume-design/pull/20) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+5. 🎉 Merged PR [#19](https://github.com/huajian-pro/resume-design/pull/19) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+<!--END_SECTION:activity-->
