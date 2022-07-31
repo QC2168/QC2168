@@ -7,7 +7,7 @@
 ![snake gif](https://raw.githubusercontent.com/QC2168/QC2168/77e198e28fb66a14643e4e58f5b713c0cc565cfd/github-contribution-grid-snake-dark.svg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
 **I Mostly Code in TypeScript** 
 
@@ -21,12 +21,8 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/QC2168/QC2168/main/charts/bar_graph.png) 
-
-
- Last Updated on 31/07/2022 15:04:03 UTC
+ Last Updated on 31/07/2022 18:42:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
