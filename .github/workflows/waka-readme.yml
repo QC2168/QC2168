@@ -21,3 +21,4 @@ jobs:
           SHOW_TIMEZONE : false
           SHOW_EDITORS : false
           SHOW_SHORT_INFO : false
+          SHOW_LOC_CHART : false
