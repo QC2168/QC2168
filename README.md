@@ -1,17 +1,17 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=qc2168&data=followers,repositories,stars,commits)](https://github.com/qc2168/github-widgetbox)
 
-## 哈喽，这里是山田🙋‍♂️
+## 🙋‍♂️ 哈喽，这里是山田
 
 - 一名前端开发程序员👨‍💻 📍 广州
 - 持续学习，持续输出
 
-## 文章记录
-当学习到一些有用的知识点，我会将它整理成一篇文章发布在掘金上
+## ✍️ 文章记录
+当学习到一些有用的知识点，我会将它整理成一篇文章发布在掘金上分享给大家，也方便自己后续查找资料
 
 [![_island](https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg)
 ](https://juejin.cn/user/2858385965322935/posts)
 
-## 技能，及在学
+## 🚀 技能，及在学
 
 [![My Skills](https://skillicons.dev/icons?i=vite,tailwind,vue,react,electron,webpack,nodejs,php,wasm,python)](https://github.com/qc2168)
 
@@ -45,7 +45,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-## ⚡ Recent Activity
+## ⚡ 最近
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#22](https://github.com/huajian-pro/resume-design/pull/22) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
 2. 🎉 Merged PR [#21](https://github.com/huajian-pro/resume-design/pull/21) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
