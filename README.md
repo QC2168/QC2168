@@ -1,15 +1,34 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=qc2168&data=followers,repositories,stars,commits)](https://github.com/qc2168/github-widgetbox)
+
+## 哈喽，这里是山田🙋‍♂️
+
+- 一名前端开发程序员👨‍💻 📍 广州
+- 持续学习，持续输出
+
+## 文章记录
+当学习到一些有用的知识点，我会将它整理成一篇文章发布在掘金上
+
+[![_island](https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg)
+](https://juejin.cn/user/2858385965322935/posts)
+
+## 技能，及在学
+
+[![My Skills](https://skillicons.dev/icons?i=vite,tailwind,vue,react,electron,webpack,nodejs,php,wasm,python)](https://github.com/qc2168)
+
+
 ![rainbow gif](https://raw.githubusercontent.com/QC2168/QC2168/10a652e4104dbb81e7061e7e21978732b4271878/profile-3d-contrib/profile-night-rainbow.svg)
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=qc2168&data=followers,repositories,stars,commits)](https://github.com/qc2168/github-widgetbox)
 
-## Watch my contribution graph get eaten by the snake 🐍
+
+## 🐍 它正在吃掉我的小绿点
+
 ![snake gif](https://raw.githubusercontent.com/QC2168/QC2168/77e198e28fb66a14643e4e58f5b713c0cc565cfd/github-contribution-grid-snake-dark.svg)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
-**I Mostly Code in TypeScript** 
+## 🌱 I Mostly Code in TypeScript
 
 ```text
 TypeScript               11 repos            █████████░░░░░░░░░░░░░░░░   37.93% 
@@ -25,6 +44,8 @@ PHP                      1 repo              ░░░░░░░░░░░�
  Last Updated on 31/07/2022 18:42:52 UTC
 <!--END_SECTION:waka-->
 
+
+## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#22](https://github.com/huajian-pro/resume-design/pull/22) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
 2. 🎉 Merged PR [#21](https://github.com/huajian-pro/resume-design/pull/21) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
