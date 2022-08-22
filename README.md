@@ -45,9 +45,9 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/electron-vite/electron-vite-vue/issues/110) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+1. ❗️ Opened issue [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
 2. 🗣 Commented on [#110](https://github.com/electron-vite/electron-vite-vue/issues/110) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-3. ❗️ Closed issue [#124](https://github.com/alewin/useWorker/issues/124) in [alewin/useWorker](https://github.com/alewin/useWorker)
-4. ❗️ Opened issue [#124](https://github.com/alewin/useWorker/issues/124) in [alewin/useWorker](https://github.com/alewin/useWorker)
+3. 🗣 Commented on [#110](https://github.com/electron-vite/electron-vite-vue/issues/110) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+4. ❗️ Closed issue [#124](https://github.com/alewin/useWorker/issues/124) in [alewin/useWorker](https://github.com/alewin/useWorker)
 5. 🗣 Commented on [#85](https://github.com/alewin/useWorker/issues/85) in [alewin/useWorker](https://github.com/alewin/useWorker)
 <!--END_SECTION:activity-->
