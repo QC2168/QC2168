@@ -47,7 +47,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
 2. 🗣 Commented on [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
-3. ❗️ Opened issue [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
-4. 🗣 Commented on [#110](https://github.com/electron-vite/electron-vite-vue/issues/110) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+3. 🗣 Commented on [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
+4. ❗️ Opened issue [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
 5. 🗣 Commented on [#110](https://github.com/electron-vite/electron-vite-vue/issues/110) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
 <!--END_SECTION:activity-->
