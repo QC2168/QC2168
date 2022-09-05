@@ -45,8 +45,8 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
-2. 🗣 Commented on [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
+1. 🗣 Commented on [#1](https://github.com/QC2168/useCharts/issues/1) in [QC2168/useCharts](https://github.com/QC2168/useCharts)
+2. ❗️ Closed issue [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
 3. 🗣 Commented on [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
 4. 🗣 Commented on [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
 5. 🗣 Commented on [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
