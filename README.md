@@ -45,9 +45,9 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#152](https://github.com/huajian-pro/resume-design/pull/152) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
-2. ❌ Closed PR [#151](https://github.com/huajian-pro/resume-design/pull/151) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
-3. 💪 Opened PR [#151](https://github.com/huajian-pro/resume-design/pull/151) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
-4. 💪 Opened PR [#150](https://github.com/huajian-pro/resume-design/pull/150) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
-5. 🗣 Commented on [#1](https://github.com/QC2168/useCharts/issues/1) in [QC2168/useCharts](https://github.com/QC2168/useCharts)
+1. 🎉 Merged PR [#152](https://github.com/huajian-pro/resume-design/pull/152) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+2. 🎉 Merged PR [#150](https://github.com/huajian-pro/resume-design/pull/150) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+3. 💪 Opened PR [#152](https://github.com/huajian-pro/resume-design/pull/152) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+4. ❌ Closed PR [#151](https://github.com/huajian-pro/resume-design/pull/151) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+5. 💪 Opened PR [#151](https://github.com/huajian-pro/resume-design/pull/151) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
 <!--END_SECTION:activity-->
