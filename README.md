@@ -45,9 +45,9 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#150](https://github.com/huajian-pro/resume-design/pull/150) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
-2. 🗣 Commented on [#1](https://github.com/QC2168/useCharts/issues/1) in [QC2168/useCharts](https://github.com/QC2168/useCharts)
-3. 🗣 Commented on [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
-4. 🗣 Commented on [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
-5. 🗣 Commented on [#61](https://github.com/electron-vite/electron-vite-react/issues/61) in [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)
+1. 💪 Opened PR [#152](https://github.com/huajian-pro/resume-design/pull/152) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+2. ❌ Closed PR [#151](https://github.com/huajian-pro/resume-design/pull/151) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+3. 💪 Opened PR [#151](https://github.com/huajian-pro/resume-design/pull/151) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+4. 💪 Opened PR [#150](https://github.com/huajian-pro/resume-design/pull/150) in [huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)
+5. 🗣 Commented on [#1](https://github.com/QC2168/useCharts/issues/1) in [QC2168/useCharts](https://github.com/QC2168/useCharts)
 <!--END_SECTION:activity-->
