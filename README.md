@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vite,tailwind,vue,react,electron,webpack,nodejs,php,wasm,python)](https://github.com/qc2168)
 
 
-![rainbow gif](https://raw.githubusercontent.com/QC2168/QC2168/10a652e4104dbb81e7061e7e21978732b4271878/profile-3d-contrib/profile-night-rainbow.svg)
+![rainbow gif](https://raw.githubusercontent.com/QC2168/QC2168/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
