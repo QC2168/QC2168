@@ -45,7 +45,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [QC2168/record](https://github.com/QC2168/record)
+1. ⬆️ Pushed 1 commit(s) to [QC2168/snippets](https://github.com/QC2168/snippets)
 2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)
 3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)
 4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)
@@ -53,5 +53,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 28th, 2022, 6:09:49 AM
+Last Updated: Tuesday, November 29th, 2022, 6:09:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
