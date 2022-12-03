@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.2.0](https://github.com/QC2168/mib-cli/releases/tag/1.2.0) in [QC2168/mib-cli](https://github.com/QC2168/mib-cli)
-2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)
+1. ⬆️ Pushed 1 commit(s) to [QC2168/record](https://github.com/QC2168/record)
+2. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)
 3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)
 4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)
 5. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 2nd, 2022, 6:08:47 AM
+Last Updated: Saturday, December 3rd, 2022, 6:08:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
