@@ -29,17 +29,17 @@
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               15 repos            ██████████░░░░░░░░░░░░░░░   41.67% 
-Vue                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
+TypeScript               15 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+Vue                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 ```
 
 
 
- Last Updated on 07/02/2023 18:38:01 UTC
+ Last Updated on 08/02/2023 18:39:08 UTC
 <!--END_SECTION:waka-->
 
 
