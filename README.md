@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [QC2168/useCharts](https://github.com/QC2168/useCharts)<br>
-2. ⬆️ Pushed 1 commit(s) to [QC2168/record](https://github.com/QC2168/record)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-5. ⬆️ Pushed 1 commit(s) to [QC2168/record](https://github.com/QC2168/record)<br>
+1. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+2. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+4. ⭐ Starred [i5ting/learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe)<br>
+5. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 21st, 2023, 6:09:07 AM
+Last Updated: Wednesday, February 22nd, 2023, 6:09:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
