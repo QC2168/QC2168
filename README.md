@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/releases/tag/v1.3.0) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. 💬 Commented on [#2](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/pull/2#issuecomment-1472003603) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
-5. ⬆️ Pushed 1 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/record](https://github.com/QC2168/record)<br>
+4. ⭐ Starred [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)<br>
+5. ⬆️ Pushed 0 commit(s) to [QC2168/v3-admin-vite](https://github.com/QC2168/v3-admin-vite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 17th, 2023, 6:08:08 AM
+Last Updated: Saturday, March 18th, 2023, 6:08:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
