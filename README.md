@@ -47,11 +47,11 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-5. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+3. 💪 Opened PR [#691](https://github.com/vitejs/awesome-vite/pull/691) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)<br>
+4. ⬆️ Pushed 1 commit(s) to [QC2168/awesome-vite](https://github.com/QC2168/awesome-vite)<br>
+5. ⭐ Starred [xx025/carrot](https://github.com/xx025/carrot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 23rd, 2023, 6:08:54 AM
+Last Updated: Friday, March 24th, 2023, 6:08:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
