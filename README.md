@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [QC2168/mib](https://github.com/QC2168/mib)<br>
-2. 💬 Commented on [#2327](https://github.com/vuejs/vitepress/issues/2327#issuecomment-1535666334) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-5. ⬆️ Pushed 2 commit(s) to [QC2168/mib-cli](https://github.com/QC2168/mib-cli)<br>
+1. ✌️ Released [](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/releases/tag/v1.4.0) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+2. ⬆️ Pushed 1 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+3. ⬆️ Pushed 2 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+4. ⬆️ Pushed 1 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+5. ⬆️ Pushed 6 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 5th, 2023, 6:08:25 AM
+Last Updated: Saturday, May 6th, 2023, 6:07:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
