@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
-2. 💬 Commented on [#7](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/7#issuecomment-1541392560) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
-3. 💬 Commented on [#7](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/7#issuecomment-1541390810) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
-4. 💬 Commented on [#7](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/7#issuecomment-1541390514) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
-5. 💬 Commented on [#7](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/7#issuecomment-1541338773) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+2. ⬆️ Pushed 1 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+3. ✌️ Released [](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/releases/tag/v1.5.0) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+4. 💬 Commented on [#7](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/7#issuecomment-1541624419) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+5. ⬆️ Pushed 3 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 10th, 2023, 6:08:11 AM
+Last Updated: Thursday, May 11th, 2023, 6:08:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
