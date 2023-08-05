@@ -47,11 +47,11 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⬆️ Pushed 4 commit(s) to [QC2168/mib](https://github.com/QC2168/mib)<br>
-4. ✔️ Closed issue [#146](https://github.com/electron-vite/vite-plugin-electron/issues/146) in [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron)<br>
-5. 💬 Commented on [#146](https://github.com/electron-vite/vite-plugin-electron/issues/146#issuecomment-1663852535) in [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron)<br>
+3. ✌️ Released [v1.2.5](https://github.com/QC2168/mib/releases/tag/v1.2.5) in [QC2168/mib](https://github.com/QC2168/mib)<br>
+4. ⬆️ Pushed 2 commit(s) to [QC2168/mib](https://github.com/QC2168/mib)<br>
+5. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 4th, 2023, 6:08:21 AM
+Last Updated: Saturday, August 5th, 2023, 6:07:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
