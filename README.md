@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-5. 💬 Commented on [#153](https://github.com/tusen-ai/naive-ui/issues/153#issuecomment-1744933527) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)<br>
+1. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+2. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+4. 📔 Created new repository [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
+5. ⭐ Starred [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 7th, 2023, 6:08:01 AM
+Last Updated: Sunday, October 8th, 2023, 6:07:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
