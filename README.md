@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#189](https://github.com/jamiebuilds/tinykeys/issues/189#issuecomment-1761351088) in [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys)<br>
-2. ❗️ Opened issue [#189](https://github.com/jamiebuilds/tinykeys/issues/189) in [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys)<br>
-3. 💬 Commented on [#12](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/12#issuecomment-1761030432) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
-4. 💬 Commented on [#5317](https://github.com/tusen-ai/naive-ui/issues/5317#issuecomment-1761012174) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)<br>
-5. ❗️ Opened issue [#5317](https://github.com/tusen-ai/naive-ui/issues/5317) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)<br>
+1. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+2. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+4. ✔️ Closed issue [#5317](https://github.com/tusen-ai/naive-ui/issues/5317) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)<br>
+5. 💬 Commented on [#5317](https://github.com/tusen-ai/naive-ui/issues/5317#issuecomment-1762740333) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 14th, 2023, 6:08:10 AM
+Last Updated: Sunday, October 15th, 2023, 6:08:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
