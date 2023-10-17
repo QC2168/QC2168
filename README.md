@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+1. ❗️ Opened issue [#230](https://github.com/nashaofu/screenshots/issues/230) in [nashaofu/screenshots](https://github.com/nashaofu/screenshots)<br>
 2. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
 3. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
-4. ✔️ Closed issue [#5317](https://github.com/tusen-ai/naive-ui/issues/5317) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)<br>
-5. 💬 Commented on [#5317](https://github.com/tusen-ai/naive-ui/issues/5317#issuecomment-1762740333) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)<br>
+4. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+5. ✔️ Closed issue [#5317](https://github.com/tusen-ai/naive-ui/issues/5317) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 16th, 2023, 6:09:28 AM
+Last Updated: Tuesday, October 17th, 2023, 6:09:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
