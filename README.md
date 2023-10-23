@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)<br>
-2. ⬆️ Pushed 1 commit(s) to [QC2168/screenshots](https://github.com/QC2168/screenshots)<br>
-3. ⬆️ Pushed 2 commit(s) to [QC2168/screenshots](https://github.com/QC2168/screenshots)<br>
-4. 🔱 Forked [QC2168/node-screenshots](https://github.com/QC2168/node-screenshots) from [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots)<br>
-5. 🔱 Forked [QC2168/screenshots](https://github.com/QC2168/screenshots) from [nashaofu/screenshots](https://github.com/nashaofu/screenshots)<br>
+1. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+2. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+4. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)<br>
+5. ⬆️ Pushed 1 commit(s) to [QC2168/screenshots](https://github.com/QC2168/screenshots)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 22nd, 2023, 6:08:01 AM
+Last Updated: Monday, October 23rd, 2023, 6:09:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
