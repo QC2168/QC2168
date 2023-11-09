@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#11](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/11) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
-2. ❗️ Opened issue [#14](https://github.com/13enBi/vite-plugin-utools/issues/14) in [13enBi/vite-plugin-utools](https://github.com/13enBi/vite-plugin-utools)<br>
-3. ❗️ Opened issue [#13](https://github.com/13enBi/vite-plugin-utools/issues/13) in [13enBi/vite-plugin-utools](https://github.com/13enBi/vite-plugin-utools)<br>
-4. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
-5. ⭐ Starred [13enBi/vite-plugin-utools](https://github.com/13enBi/vite-plugin-utools)<br>
+1. ⬆️ Pushed 2 commit(s) to [QC2168/vite-plugin-utools](https://github.com/QC2168/vite-plugin-utools)<br>
+2. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+4. 📔 Created new repository [QC2168/vite-plugin-utools](https://github.com/QC2168/vite-plugin-utools)<br>
+5. ⬆️ Pushed 2 commit(s) to [QC2168/vite-plugin-utools](https://github.com/QC2168/vite-plugin-utools)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 8th, 2023, 6:09:00 AM
+Last Updated: Thursday, November 9th, 2023, 6:08:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
