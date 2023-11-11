@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#13](https://github.com/13enBi/vite-plugin-utools/issues/13) in [13enBi/vite-plugin-utools](https://github.com/13enBi/vite-plugin-utools)<br>
-2. 💬 Commented on [#5242](https://github.com/rollup/rollup/issues/5242#issuecomment-1803955622) in [rollup/rollup](https://github.com/rollup/rollup)<br>
-3. ✔️ Closed issue [#5242](https://github.com/rollup/rollup/issues/5242) in [rollup/rollup](https://github.com/rollup/rollup)<br>
-4. ⬆️ Pushed 2 commit(s) to [QC2168/mib](https://github.com/QC2168/mib)<br>
-5. ⬆️ Pushed 2 commit(s) to [QC2168/vite-plugin-utools](https://github.com/QC2168/vite-plugin-utools)<br>
+1. ⬆️ Pushed 1 commit(s) to [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
+2. ⬆️ Pushed 2 commit(s) to [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
+3. ⬆️ Pushed 3 commit(s) to [QC2168/vite-plugin-utools](https://github.com/QC2168/vite-plugin-utools)<br>
+4. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+5. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 10th, 2023, 6:09:04 AM
+Last Updated: Saturday, November 11th, 2023, 6:07:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
