@@ -45,13 +45,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template)<br>
+1. ⬆️ Pushed 7 commit(s) to [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
 2. ⬆️ Pushed 1 commit(s) to [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
-5. ⬆️ Pushed 2 commit(s) to [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
+3. ⬆️ Pushed 3 commit(s) to [QC2168/vite-plugin-utools](https://github.com/QC2168/vite-plugin-utools)<br>
+4. 💬 Commented on [#13](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/13#issuecomment-1807031808) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+5. 💬 Commented on [#13](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/13#issuecomment-1807030361) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 12th, 2023, 6:08:08 AM
+Last Updated: Monday, November 13th, 2023, 6:09:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
