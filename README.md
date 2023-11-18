@@ -44,13 +44,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [QC2168/mib](https://github.com/QC2168/mib)<br>
-2. ⬆️ Pushed 1 commit(s) to [QC2168/mib](https://github.com/QC2168/mib)<br>
-3. ✌️ Released [v1.3.0](https://github.com/QC2168/mib/releases/tag/v1.3.0) in [QC2168/mib](https://github.com/QC2168/mib)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/mib](https://github.com/QC2168/mib)<br>
-5. ⬆️ Pushed 2 commit(s) to [QC2168/mib](https://github.com/QC2168/mib)<br>
+1. ✔️ Closed issue [#13](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/13) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+2. ✔️ Closed issue [#12](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/12) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+4. ⬆️ Pushed 2 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+5. ⬆️ Pushed 1 commit(s) to [QC2168/mib](https://github.com/QC2168/mib)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 17th, 2023, 6:13:40 AM
+Last Updated: Saturday, November 18th, 2023, 6:08:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
