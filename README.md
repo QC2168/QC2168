@@ -5,7 +5,7 @@
 - 👦 一名前端开发工程师 - 📍 广州
 - 🚀 持续学习，持续输出 ~
 
-## 个人小站
+## 🏝 个人小站
 
 [_island Record](https://island-record.vercel.app/)
 
