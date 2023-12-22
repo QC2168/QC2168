@@ -44,13 +44,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter)<br>
-2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+1. ⭐ Starred [oxc-project/oxc](https://github.com/oxc-project/oxc)<br>
+2. ⭐ Starred [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)<br>
 3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-5. 💬 Commented on [#262](https://github.com/alovajs/alova/issues/262#issuecomment-1864030888) in [alovajs/alova](https://github.com/alovajs/alova)<br>
+5. ⭐ Starred [kazupon/vue-i18n](https://github.com/kazupon/vue-i18n)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 21st, 2023, 6:09:16 AM
+Last Updated: Friday, December 22nd, 2023, 6:09:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
