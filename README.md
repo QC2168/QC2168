@@ -50,11 +50,11 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⭐ Starred [terser/terser](https://github.com/terser/terser)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
-5. ⬆️ Pushed 1 commit(s) to [QC2168/note-img](https://github.com/QC2168/note-img)<br>
+3. ✌️ Released [](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/releases/tag/v1.6.2) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+4. ⬆️ Pushed 1 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+5. ✔️ Closed issue [#14](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/14) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 26th, 2023, 6:09:01 AM
+Last Updated: Wednesday, December 27th, 2023, 6:09:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
