@@ -48,13 +48,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+1. ⭐ Starred [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js)<br>
 2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⭐ Starred [Simon-He95/vscode-highlight-text](https://github.com/Simon-He95/vscode-highlight-text)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-5. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+4. ✔️ Closed issue [#27](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/27) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+5. ✔️ Closed issue [#19](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/19) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 29th, 2024, 6:09:59 AM
+Last Updated: Tuesday, April 30th, 2024, 6:09:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
