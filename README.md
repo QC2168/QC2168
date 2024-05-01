@@ -48,13 +48,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js)<br>
+1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. ✔️ Closed issue [#27](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/27) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
-5. ✔️ Closed issue [#19](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/19) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+3. 💬 Commented on [#22](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/issues/22#issuecomment-2085073907) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+4. 💬 Commented on [#175](https://github.com/antfu-collective/vitesse-webext/issues/175#issuecomment-2085060587) in [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext)<br>
+5. 💬 Commented on [#175](https://github.com/antfu-collective/vitesse-webext/issues/175#issuecomment-2085055780) in [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 30th, 2024, 6:09:28 AM
+Last Updated: Wednesday, May 1st, 2024, 6:10:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
