@@ -48,13 +48,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#71](https://github.com/okoala/egg-jwt/issues/71) in [okoala/egg-jwt](https://github.com/okoala/egg-jwt)<br>
-2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+1. 💬 Commented on [#3896](https://github.com/vuejs/vitepress/issues/3896#issuecomment-2116541092) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+2. ✔️ Closed issue [#3896](https://github.com/vuejs/vitepress/issues/3896) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+3. ❗️ Opened issue [#3896](https://github.com/vuejs/vitepress/issues/3896) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 5. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 16th, 2024, 6:08:25 AM
+Last Updated: Friday, May 17th, 2024, 6:10:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
