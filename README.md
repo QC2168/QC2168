@@ -48,13 +48,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/snippets](https://github.com/QC2168/snippets)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/snippets](https://github.com/QC2168/snippets)<br>
-5. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+1. ❗️ Opened issue [#5765](https://github.com/antvis/G6/issues/5765) in [antvis/G6](https://github.com/antvis/G6)<br>
+2. 📔 Created new repository [QC2168/vitepress-g6-build-error](https://github.com/QC2168/vitepress-g6-build-error)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+5. ⭐ Starred [theajack/disable-devtool](https://github.com/theajack/disable-devtool)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 23rd, 2024, 6:11:02 AM
+Last Updated: Friday, May 24th, 2024, 6:09:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
