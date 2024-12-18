@@ -49,12 +49,12 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-5. 💬 Commented on [#212](https://github.com/027xiguapi/pear-rec/issues/212#issuecomment-2543874226) in [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec)<br>
+2. ✌️ Released [v1.7.1](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar/releases/tag/v1.7.1) in [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+4. ⬆️ Pushed 1 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+5. ⬆️ Pushed 1 commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 17th, 2024, 6:13:42 AM
+Last Updated: Wednesday, December 18th, 2024, 6:13:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
