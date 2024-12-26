@@ -48,13 +48,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+1. 📔 Created new repository [QC2168/screen-capture-app](https://github.com/QC2168/screen-capture-app)<br>
 2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⭐ Starred [dromara/electron-egg](https://github.com/dromara/electron-egg)<br>
-4. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+4. ❗️ Opened issue [#181](https://github.com/nashaofu/xcap/issues/181) in [nashaofu/xcap](https://github.com/nashaofu/xcap)<br>
 5. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 25th, 2024, 6:12:57 AM
+Last Updated: Thursday, December 26th, 2024, 6:12:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
