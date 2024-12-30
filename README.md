@@ -48,13 +48,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#116](https://github.com/NiiightmareXD/windows-capture/issues/116#issuecomment-2564596456) in [NiiightmareXD/windows-capture](https://github.com/NiiightmareXD/windows-capture)<br>
+1. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 2. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-3. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. ❗️ Opened issue [#116](https://github.com/NiiightmareXD/windows-capture/issues/116) in [NiiightmareXD/windows-capture](https://github.com/NiiightmareXD/windows-capture)<br>
+3. ⬆️ Pushed 1 commit(s) to [QC2168/screen-capture-app](https://github.com/QC2168/screen-capture-app)<br>
+4. 💬 Commented on [#84](https://github.com/NiiightmareXD/windows-capture/issues/84#issuecomment-2564661537) in [NiiightmareXD/windows-capture](https://github.com/NiiightmareXD/windows-capture)<br>
 5. ⬆️ Pushed 1 commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 29th, 2024, 6:11:38 AM
+Last Updated: Monday, December 30th, 2024, 6:13:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
