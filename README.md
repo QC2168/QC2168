@@ -48,13 +48,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
-2. ⬆️ Pushed undefined commit(s) to [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
+1. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+2. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 3. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-5. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+4. ⬆️ Pushed undefined commit(s) to [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar)<br>
+5. ⬆️ Pushed undefined commit(s) to [QC2168/utools-plugin-template](https://github.com/QC2168/utools-plugin-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 9th, 2025, 6:14:11 AM
+Last Updated: Monday, November 10th, 2025, 6:17:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
