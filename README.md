@@ -48,13 +48,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-2. 💬 Commented on [#1468](https://github.com/github/spec-kit/issues/1468#issuecomment-3800605175) in [github/spec-kit](https://github.com/github/spec-kit)<br>
+1. ✔️ Closed issue [#7149](https://github.com/vbenjs/vue-vben-admin/issues/7149) in [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)<br>
+2. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 3. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-4. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+4. ❗️ Opened issue [#7149](https://github.com/vbenjs/vue-vben-admin/issues/7149) in [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)<br>
 5. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 27th, 2026, 6:20:06 AM
+Last Updated: Wednesday, January 28th, 2026, 6:20:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
