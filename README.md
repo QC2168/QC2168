@@ -48,13 +48,13 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
-2. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
+1. ⭐ Starred [nexu-io/openmotion](https://github.com/nexu-io/openmotion)<br>
+2. ⭐ Starred [Yuan-ManX/open-motion](https://github.com/Yuan-ManX/open-motion)<br>
 3. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 4. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 5. ⬆️ Pushed undefined commit(s) to [QC2168/QC2168](https://github.com/QC2168/QC2168)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 17th, 2026, 3:04:58 PM
+Last Updated: Wednesday, November 18th, 2026, 2:44:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
